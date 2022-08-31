@@ -1,20 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T06:49:12.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="scZMlF4jktJWtRC3CjO-" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:34:15.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="vcgXYHZXJDpB2-CAqj3S" version="20.2.7" type="github">
   <diagram id="E_13mlukJOxraNOaaRcT" name="第 1 页">
-    <mxGraphModel dx="830" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w3a1VN94c9Hw_7OJSUU4-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="339" width="330" height="61" as="geometry" />
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-27" value="中间件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-42" value="通用逻辑层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-52" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-14" value="基础层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-15" value="应用数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440.25" width="100" height="79.75" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-55" value="日志&lt;br&gt;切面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="40" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-56" value="业务&lt;br&gt;监控&lt;br&gt;&lt;br&gt;&lt;br&gt;系统&lt;br&gt;监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="740" y="170" width="40" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-68" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="249" y="530" width="531" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w3a1VN94c9Hw_7OJSUU4-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="346.25" width="60" height="45" as="geometry" />
+          <mxGeometry x="280.53206650831356" y="540.0016717325228" width="58.358662613981764" height="43.76899696048633" as="geometry" />
         </mxCell>
-        <mxCell id="w3a1VN94c9Hw_7OJSUU4-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="346.25" width="60" height="45" as="geometry" />
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-69" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="476.6615201900238" y="540.0016717325228" width="58.358662613981764" height="43.76899696048633" as="geometry" />
         </mxCell>
-        <mxCell id="w3a1VN94c9Hw_7OJSUU4-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="346.25" width="60" height="45" as="geometry" />
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-70" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="681.6373871733966" y="540.0016717325228" width="58.358662613981764" height="43.76899696048633" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-71" value="监控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.00152019002377" y="580.8206686930091" width="75.6769596199525" height="29.179331306990882" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="440" width="471" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-75" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w3a1VN94c9Hw_7OJSUU4-76">
+          <mxGeometry width="471" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-73" value="非结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w3a1VN94c9Hw_7OJSUU4-76">
+          <mxGeometry x="34.004655581947766" y="20.306718750000062" width="129.7767220902613" height="39.3765625" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-74" value="结构化数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="w3a1VN94c9Hw_7OJSUU4-76">
+          <mxGeometry x="303.6776247030879" y="10.347968750000064" width="100.68883610451307" height="59.3140625" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-78" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-84" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-85" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="370" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-86" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551.5" y="370" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-87" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="249" y="171" width="420" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-94" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-95" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=auto;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="562" y="260" width="108" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-96" value="异常警报类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575.25" y="268" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-97" value="视频管理类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575.25" y="302" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-98" value="人体姿态估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259.75" y="286" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-99" value="行为识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.75" y="286" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-100" value="目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459.75" y="286" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w3a1VN94c9Hw_7OJSUU4-104" value="WEB UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="180.5" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
